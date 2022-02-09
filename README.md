@@ -6,7 +6,7 @@ Custom Theme for Frappe/ERPNext v13-beta
 
 To install this theme,
 
-1. bench get-app https://github.com/hashirluv/redtheme_v13b.git
+1. bench get-app 
 2. bench --site (sitename) install-app redtheme_v13b
 3. bench clear-cache
 
